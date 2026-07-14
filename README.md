@@ -28,6 +28,5 @@
   <li><b>Currently learning:</b> LangGraph for stateful multi agent workflows and going deeper on LLM evaluation frameworks.</li>
   <li><b>Looking to collaborate on:</b> AI tools that automate real workflows, security tooling, or anything where the AI is doing actual work inside the product.</li>
   <li><b>Ask me about:</b> Building agentic AI systems, threat intelligence, RAG pipelines, Neo4j graph databases, or how I built CodeSense.</li>
-  <li><b>Fun fact:</b> I read a lot. Books I like: <a href="https://literal.club/maitreyee_reads" target="_blank">literal.club/maitreyee_reads</a></li>
 </ul>
 
