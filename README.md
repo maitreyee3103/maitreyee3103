@@ -33,5 +33,3 @@
   <li><b>Fun fact:</b> I read a lot. Books I like: <a href="https://literal.club/maitreyee_reads" target="_blank">literal.club/maitreyee_reads</a></li>
 </ul>
 
-Fun fact - 
-
