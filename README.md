@@ -24,10 +24,13 @@
   </a>
 </div>
 <hr>
-I'm currently working on - 
-I'm currently learning - 
-I'm looking to collaborate on - 
-Ask me about -  
-How to reach me - 
+
+<ul>
+  <li><b>Currently working on:</b> Personal AI projects including Agent Risk Passport and ThreatRAG, and actively looking for my next full stack or AI engineering role.</li>
+  <li><b>Currently learning:</b> LangGraph for stateful multi agent workflows and going deeper on LLM evaluation frameworks.</li>
+  <li><b>Looking to collaborate on:</b> AI tools that automate real workflows, security tooling, or anything where the AI is doing actual work inside the product.</li>
+  <li><b>Ask me about:</b> Building agentic AI systems, threat intelligence, RAG pipelines, Neo4j graph databases, or how I built CodeSense.</li>
+</ul>
+
 Fun fact - 
 
