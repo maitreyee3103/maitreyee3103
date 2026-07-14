@@ -2,10 +2,11 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/maitreyee3103/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=maitreyee3103&color=blueviolet" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/maitreyee3103/maitreyee3103/blob/main/github-banner.gif" alt="Banner of a developer sitting in front of a desk">
+<img src="https://raw.githubusercontent.com/maitreyee3103/maitreyee3103/main/github-banner.gif" alt="Banner of a developer sitting in front of a desk">
+
 
 <!--
 **maitreyee3103/maitreyee3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
